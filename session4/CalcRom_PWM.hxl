@@ -1,0 +1,28 @@
+### HEXMate logfile and output summary ###
+### Memory Usage ###
+ Unused memory ranges:
+  4h - 1FFBBh
+  20000h - 2FFFFFh
+  300008h - 30003Fh
+  
+ CalcRom_PWM.hex ranges:
+  0h - 3h
+  1FFBCh - 1FFFFh
+  300000h - 300007h
+  
+### Hex Memory Map ###
+ Legend:
+  - = Unused memory
+  F = Filled ROM
+  S = Stored serial code
+  A = Stored ASCII string
+  R = Reserved for checksum
+  C = Stored checksum result
+  T = Trailing code
+  & = Find & replace opcode
+  X = Find & delete opcode
+  1 = CalcRom_PWM.hex
+00000000: 1111------------------------------------------------------------
+0001FF80: ------------------------------------------------------------1111
+0001FFC0: 1111111111111111111111111111111111111111111111111111111111111111
+00300000: 11111111--------------------------------------------------------

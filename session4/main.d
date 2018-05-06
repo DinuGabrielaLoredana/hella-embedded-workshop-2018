@@ -1,0 +1,1 @@
+ main.d  main.p1:  C:/Users/Roxana/Desktop/CalcRom_PWM/main.c C:/Users/Roxana/Desktop/CalcRom_PWM/Pwm.h C:/Users/Roxana/Desktop/CalcRom_PWM/Pwm_Types.h
