@@ -1,0 +1,23 @@
+_lcdCommand: CODE, 129184 0 58
+___awdiv: CODE, 130128 0 176
+_LcdClear: CODE, 128904 0 8
+_OpenSPI1: CODE, 129464 0 88
+___awmod: CODE, 129800 0 156
+_main: CODE, 129380 0 84
+_LcdInit: CODE, 129552 0 98
+_initButtons: CODE, 128898 0 6
+__initialization: CODE, 129146 0 32
+_LcdWriteString: CODE, 129110 0 36
+_initLEDs: CODE, 128912 0 10
+_Delay10KTCYx: CODE, 128974 0 24
+_sequence1: CODE, 129080 0 30
+_sequence2: CODE, 129650 0 150
+_sequence3: CODE, 129300 0 80
+_sequence4: CODE, 129956 0 172
+_initAdc: CODE, 128954 0 20
+_LcdChar: CODE, 129242 0 58
+_LcdGoTo: CODE, 128922 0 14
+_setGPIO: CODE, 129024 0 28
+_WriteSPI1: CODE, 128998 0 26
+_setIODIR: CODE, 129052 0 28
+Total: 1382
